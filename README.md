@@ -11,7 +11,7 @@
 ![sqtools3](https://user-images.githubusercontent.com/1834154/120624186-b9521180-c460-11eb-9c8d-011d4d9c4b03.png)
 
 #### Quick demo
->Process print files in no time
+> Process print files in no time
 
 ![sqt_demo](https://user-images.githubusercontent.com/1834154/120624656-32516900-c461-11eb-8be8-234884ead303.gif)
 
@@ -80,3 +80,6 @@ CorelDRAW with Visual Basic for Applications (VBA) support.
 1. Show Options window **CTRL+J**, goto Customization > Commands > select **Macros** from dropdown list.  
 1. Find **sqTools.run** and drag'n'drop it on convenient place in your workspace.  
 1. To set the Toolbar icon for your SQTools button, go to Appearence tab > Import dropdown list > File and select downloaded **sqt_ico.bmp**
+
+#### How to
+Hover your mouse over any button to see a description of how it works.
